@@ -1,13 +1,17 @@
 {
   "name": "iobroker.admin",
   "description": "The adapter opens a webserver for the ioBroker admin UI.",
-  "version": "5.4.9",
+  "version": "5.4.9-lineaje-01",
   "contributors": [
     "bluefox <dogafox@gmail.com>",
     "apollon77",
     "soef <soef@gmx.net>",
     "hobbyquaker <hq@ccu.io>",
-    "ldittmar <iobroker@lmdsoft.de>"
+    "ldittmar <iobroker@lmdsoft.de>",
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
   ],
   "engines": {
     "node": ">=12.0.0"
@@ -15,7 +19,7 @@
   "homepage": "https://github.com/ioBroker/ioBroker.admin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ioBroker/ioBroker.admin"
+    "url": "https://github.com/lineaje-labs-gos/ioBroker-ioBroker.admin"
   },
   "license": "MIT",
   "keywords": [
